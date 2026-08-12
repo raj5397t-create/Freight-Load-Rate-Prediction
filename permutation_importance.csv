@@ -1,0 +1,15 @@
+feature,mae_increase
+distance,1354.6560882245826
+eq_Reefer,46.29578171492068
+pickup_lon,28.941103658954404
+delivery_lon,21.399605436340664
+quote_signal,20.60647704496796
+eq_Flatbed,9.963176798454526
+weight_clean,4.7723439151712626
+pickup_lat,0.8987810066163036
+delivery_lat,0.6107074480017047
+month_cos,0.31536838111347265
+market_index_clean,0.09777426272731304
+month_sin,0.0
+weight_missing,0.0
+market_missing,0.0
