@@ -1,5 +1,4 @@
 # Freight-Load-Rate-Prediction
-# Freight Load Rate Prediction
 
 End-to-end regression pipeline that predicts freight `posted_rate` (USD) for
 truckload shipments, built entirely with **pandas / numpy / matplotlib**
